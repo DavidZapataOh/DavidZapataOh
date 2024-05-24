@@ -2,7 +2,7 @@
 > Fullstack Blockchain Developer
 
 
-<img src="https://media.licdn.com/dms/image/D4E16AQFbJO5HFt8Pxg/profile-displaybackgroundimage-shrink_350_1400/0/1694748101826?e=1712188800&v=beta&t=H_SCG7TgKs08njeY9p3P-oeZQ135WqJms5E1c2jtLZg" alt="davidzapata" />
+<img src="https://x.com/DavidZapataOh/header_photo" alt="davidzapata" />
 
 <div>
  <p>
