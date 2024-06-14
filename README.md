@@ -2,7 +2,7 @@
 > Fullstack Blockchain Developer
 
 
-<img src="https://x.com/DavidZapataOh/header_photo" alt="davidzapata" />
+<img src="https://pbs.twimg.com/profile_banners/1601761374/1710713858/1500x500" alt="davidzapata" />
 
 <div>
  <p>
