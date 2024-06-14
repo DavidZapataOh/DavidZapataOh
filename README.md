@@ -15,10 +15,10 @@ I possess outstanding design and coding abilities, along with the capacity to tr
 <div>
   <ul>
     <li>🦊 FullStack Blockchain Developer</li>
+    <li>🔺 Avalanche Ambassador</li>
+    <li>🎤 Speaker</li>
     <li>🎓 CoFounder & CEO at <a href="https://www.instagram.com/highblockacademy/">HighBlock</a></li>
     <li>👨‍💻 Founder & CEO at <a href="https://tokendev.io/">TokenDev</a></li>
-    <li>📄 Collaborator in the <a href="https://www.twitch.tv/cuchorapido/">CuchoRapido</a> community</li>
-    <li>🎬 Content Creator on <a href="https://www.twitch.tv/davidzoh_">Twitch</a> & <a href="https://www.youtube.com/@davidzapataoh">Youtube</a></li>
   </ul>
 </div>
 
