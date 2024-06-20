@@ -39,7 +39,7 @@ I possess outstanding design and coding abilities, along with the capacity to tr
 - Instagram: [@davidzapatao](https://instagram.com/davidzapatao) 📷
 - Telegram: [@davidzo](https://t.me/davidzo) 📷
 - Twitch: [DavidZOh_](https://twitch.tv/DavidZOh_) 🎬
-- Youtube: [David Zapata](https://www.youtube.com/@davidzapataohv) 🎬
+- Youtube: [David Zapata](https://www.youtube.com/channel/UCwQ3UogzVG3r86lLqLXe0Bw?sub_confirmation=1) 🎬
 - Linkedin: [David Zapata](https://www.linkedin.com/in/davidzapatao/) 💼
 
 
