@@ -6,7 +6,7 @@
 
 <div>
  <p>
-I am a young man passionate about technology. I have several certified studies and every day I like to learn something new. I characterize myself as a self-taught, independent, recursive person with good logic. Among my experience is the development of Dapps, smart contracts, cryptocurrencies and wallets.
+I am a Blockchain Developer with over 3 years of experience, specializing in the creation of Smart Contracts using Solidity. Currently focused on developing privacy dApps with Zero Knowledge.
 
 I possess outstanding design and coding abilities, along with the capacity to transform specifications into captivating web applications, all within the realm of blockchain development.
 </p>
@@ -15,10 +15,10 @@ I possess outstanding design and coding abilities, along with the capacity to tr
 <div>
   <ul>
     <li>🦊 FullStack Blockchain Developer</li>
-    <li>🔺 Avalanche Ambassador</li>
+    <li>🔺 Avalanche Technical Ambassador</li>
     <li>🎤 Speaker</li>
     <li>🎓 CoFounder & CEO at <a href="https://www.instagram.com/highblockacademy/">HighBlock</a></li>
-    <li>👨‍💻 Founder & CEO at <a href="https://tokendev.io/">TokenDev</a></li>
+    <li>👨‍💻 Founder & CEO at <a href="https://glemo.io/">Glemo</a></li>
   </ul>
 </div>
 
