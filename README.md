@@ -1,5 +1,5 @@
-### Hi there 👋 I'm [David Zapata](https://david.tokendev.io)
-> Fullstack Blockchain Developer
+### Hi there 👋 I'm David Zapata
+> Fullstack Blockchain Developer & ZK Expert
 
 
 <img src="https://pbs.twimg.com/profile_banners/1601761374/1710713858/1500x500" alt="davidzapata" />
