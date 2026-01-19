@@ -6,7 +6,7 @@
 
 <div>
  <p>
-I am a Blockchain Developer with over 3 years of experience, specializing in the creation of Smart Contracts using Solidity. Currently focused on developing privacy dApps with Zero Knowledge.
+I am a Blockchain Developer with over 4 years of experience, specializing in the creation of Smart Contracts using Solidity. Currently focused on developing privacy dApps with Zero Knowledge.
 
 I possess outstanding design and coding abilities, along with the capacity to transform specifications into captivating web applications, all within the realm of blockchain development.
 </p>
@@ -16,8 +16,8 @@ I possess outstanding design and coding abilities, along with the capacity to tr
   <ul>
     <li>🦊 FullStack Blockchain Developer</li>
     <li>🔺 Avalanche Technical Ambassador</li>
+    <li>🔐 ZK Expert</li>
     <li>🎤 Speaker</li>
-    <li>🎓 CoFounder & CEO at <a href="https://www.instagram.com/highblockacademy/">HighBlock</a></li>
     <li>👨‍💻 Founder & CEO at <a href="https://glemo.io/">Glemo</a></li>
   </ul>
 </div>
